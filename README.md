@@ -1,13 +1,11 @@
 # Solar Power Research – Overview
 
-This repository provides a **high-level overview** of the Solar Power Research activity within the organisation.
+This repository provides an overview of the Solar Power Research activity within FMI.
 
-It is not a code repository.  
-It exists to help people understand:
+This repository tells you 
 
 - what we work on
 - which projects exist
-- which teams are involved
 - where to find the actual code
 
 ---
@@ -16,9 +14,8 @@ It exists to help people understand:
 
 This group works on solar power research topics, including:
 
-- [INSERT MAIN RESEARCH AREA 1]
-- [INSERT MAIN RESEARCH AREA 2]
-- [INSERT MAIN RESEARCH AREA 3]
+- topic 1
+- topic 2
 
 ---
 
@@ -27,37 +24,14 @@ This group works on solar power research topics, including:
 ### Project A
 Short description of the project.
 
-- Repository: https://github.com/ORG/PROJECT-A
-- Team: Solar Power Research
-- Status: active / experimental / maintenance
+- Repository..
 
 ---
 
 ### Project B
 Short description of the project.
 
-- Repository: https://github.com/ORG/PROJECT-B
-- Team: Solar Power Research
-- Status: active / experimental / maintenance
-
----
-
-### Project C
-Short description of the project.
-
-- Repository: https://github.com/ORG/PROJECT-C
-- Team: Solar Power Research
-- Status: active / experimental / maintenance
-
----
-
-## Shared components
-
-These are reused across multiple projects:
-
-- shared-models → common data structures
-- simulation-core → core simulation logic
-- analysis-tools → shared analysis utilities
+- Repository..
 
 ---
 

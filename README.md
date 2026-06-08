@@ -44,7 +44,7 @@ Short description of the project.
 
 We are organised under the GitHub team:
 
-[Solar Power Research Team](https://github.com/orgs/ORG-NAME/teams/solar-power-research)
+[Solar Power Research Team](https://github.com/orgs/fmidev/teams/FMI-solar-power-research)
 
 ---
 

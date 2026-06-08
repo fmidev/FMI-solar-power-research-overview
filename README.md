@@ -38,8 +38,13 @@ Short description of the project.
 ## Team
 
 **Solar Power Research**
+
 - Responsible for development and research in this area
 - Works across multiple related projects
+
+We are organised under the GitHub team:
+
+[Solar Power Research Team](https://github.com/orgs/ORG-NAME/teams/solar-power-research)
 
 ---
 

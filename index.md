@@ -1,4 +1,8 @@
 # ☀️ Solar Power Research – Overview
+> A structured overview of projects, teams, and shared research components.
+
+**Quick links:**  
+[Team](#-team) • [Projects](#-projects) • [Shared components](#-shared-components)
 
 Welcome to the central entry point for Solar Power Research within the organisation.
 
@@ -32,13 +36,19 @@ Access and ownership are managed through the GitHub team:
 
 ## 📁 Projects
 
-### Project A
+---
+
+### 🧪 Project A
 Core simulation and modelling work  
 👉 https://github.com/ORG/PROJECT-A  
 
-### Project B
+---
+
+### 📊 Project B
 Data analysis and evaluation tools  
 👉 https://github.com/ORG/PROJECT-B  
+
+---
 
 ### Project C
 Experimental and research prototypes  
@@ -59,3 +69,16 @@ Experimental and research prototypes
 - Start here for orientation
 - Use project links for implementation details
 - Use the team page for ownership and access
+
+---
+
+## 📌 Notes
+
+This page is a lightweight entry point for navigating Solar Power Research work.
+
+It is automatically generated from a GitHub repository using GitHub Pages (Jekyll theme).
+
+Content can be expanded into:
+- multi-page documentation
+- architecture diagrams
+- onboarding guides

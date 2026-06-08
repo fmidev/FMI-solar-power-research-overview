@@ -1,75 +1,61 @@
 # ☀️ Solar Power Research – Overview
 
-A central entry point for Solar Power Research work within the organisation.
+Welcome to the central entry point for Solar Power Research within the organisation.
 
-This page is a **lightweight demo landing page** showing how GitHub Pages can structure information beyond a standard README.
+This site provides a structured overview of:
+- teams
+- projects
+- shared components
 
 ---
 
-## ⚡ What this group does
+## ⚡ What we do
 
-We work on solar power research and engineering topics, including:
+We work on solar power research and engineering topics including:
 
 - Solar system modelling and simulation  
-- Data analysis and performance evaluation  
-- Shared tools and research infrastructure  
+- Performance analysis and data evaluation  
+- Shared research tooling and infrastructure  
 - Experimental and prototype systems  
 
 ---
 
-## 🧭 Quick navigation
+## 👥 Team
 
-### 👥 Team
-Access control and ownership:
+**Solar Power Research Team**
 
-👉 https://github.com/orgs/ORG-NAME/teams/solar-power-research
+Access and ownership are managed through the GitHub team:
 
----
-
-### 📁 Active projects
-
-| Project | Description | Repository |
-|--------|-------------|------------|
-| Project A | Core simulation work | https://github.com/ORG/PROJECT-A |
-| Project B | Data analysis tools | https://github.com/ORG/PROJECT-B |
-| Project C | Experimental models | https://github.com/ORG/PROJECT-C |
+👉 https://github.com/orgs/fmidev/teams/FMI-solar-power-research
 
 ---
 
-### 🔧 Shared components
+## 📁 Projects
 
-Reusable building blocks used across projects:
+### Project A
+Core simulation and modelling work  
+👉 https://github.com/ORG/PROJECT-A  
 
-- `shared-models` → common data structures  
-- `simulation-core` → core simulation engine  
-- `analysis-tools` → shared analysis utilities  
+### Project B
+Data analysis and evaluation tools  
+👉 https://github.com/ORG/PROJECT-B  
+
+### Project C
+Experimental and research prototypes  
+👉 https://github.com/ORG/PROJECT-C  
 
 ---
 
-## 🗂️ How to use this space
+## 🔧 Shared components
+
+- shared-models → common data structures  
+- simulation-core → simulation engine  
+- analysis-tools → shared utilities  
+
+---
+
+## 🧭 How to use this site
 
 - Start here for orientation
-- Use project links for implementation work
+- Use project links for implementation details
 - Use the team page for ownership and access
-- Shared components are used across multiple projects
-
----
-
-## 📌 Status (demo section)
-
-This page is a **demonstration of structure options**.
-
-It can be extended into:
-- multi-page documentation
-- diagrams and architecture views
-- onboarding guides
-- project dashboards
-
----
-
-## 🔗 Quick links
-
-- Team → https://github.com/orgs/fmidev/teams/FMI-solar-power-research  
-- Project A → https://github.com/ORG/PROJECT-A  
-- Project B → https://github.com/ORG/PROJECT-B  
-- Project C → https://github.com/ORG/PROJECT-C  

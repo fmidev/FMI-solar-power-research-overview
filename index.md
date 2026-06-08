@@ -1,4 +1,4 @@
-# ☀️ Solar Power Research – Overview
+
 > A structured overview of projects, teams, and shared research components.
 
 **Quick links:**  
